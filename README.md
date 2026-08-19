@@ -9,7 +9,7 @@ Backend developer · Java & Python
 <br>
 
 Construyo cosas que espero le sirvan a alguien más.
-Cuando no estoy programando, probablemente estoy leyendo algo que me recomendaron, viendo un anime, o disfrutando del frío.
+Cuando no estoy programando, probablemente estoy leyendo algo que me recomendaron, viendo un anime, o disfrutando del frío :) .
 
 <br>
 
