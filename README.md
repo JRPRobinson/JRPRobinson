@@ -15,7 +15,7 @@ Cuando no estoy programando, probablemente estoy leyendo algo que me recomendaro
 
 **Stack**
 
-`Java` `Python` `Spring` `Jakarta EE` `PostgreSQL` `MariaDB` `Swagger`
+`Java` `Python` `Apache Kafka` `Spring` `Jakarta EE` `Typer` `PostgreSQL` `MariaDB` `Swagger`
 
 <br>
 
